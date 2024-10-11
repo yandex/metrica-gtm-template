@@ -1,4 +1,14 @@
 {
   "AUTHORS.md":"metrika/frontend/watch-gtm-template/AUTHORS.md",
-  "LICENSE.md":"metrika/frontend/watch-gtm-template/LICENSE.md"
+  "CONTRIBUTING.md":"metrika/frontend/watch-gtm-template/CONTRIBUTING.md",
+  "LICENSE.md":"metrika/frontend/watch-gtm-template/LICENSE.md",
+  "README.md":"metrika/frontend/watch-gtm-template/README.md",
+  "SECURITY.md":"metrika/frontend/watch-gtm-template/SECURITY.md",
+  "img/advanced.png":"metrika/frontend/watch-gtm-template/img/advanced.png",
+  "img/demo.png":"metrika/frontend/watch-gtm-template/img/demo.png",
+  "img/subparams.png":"metrika/frontend/watch-gtm-template/img/subparams.png",
+  "img/subsubparams.png":"metrika/frontend/watch-gtm-template/img/subsubparams.png",
+  "img/tests.png":"metrika/frontend/watch-gtm-template/img/tests.png",
+  "metadata.yaml":"metrika/frontend/watch-gtm-template/metadata.yaml",
+  "template.tpl":"metrika/frontend/watch-gtm-template/template.tpl"
 }
