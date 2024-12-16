@@ -31,6 +31,8 @@ The template supports all methods from the Metrica JS API as outlined in the [of
 
 ## For Developers
 
+If you are Yandex employee please visit https://nda.ya.ru/t/20Cds6lt7ASopm for additional info about project
+
 ### How to submit a Pull Request
 
 1. Fork the repository.
