@@ -1,7 +1,7 @@
 {
   "AUTHORS.md":"metrika/frontend/watch-gtm-template/AUTHORS.md",
   "CONTRIBUTING.md":"metrika/frontend/watch-gtm-template/CONTRIBUTING.md",
-  "LICENSE.md":"metrika/frontend/watch-gtm-template/LICENSE.md",
+  "LICENSE":"metrika/frontend/watch-gtm-template/LICENSE",
   "README.md":"metrika/frontend/watch-gtm-template/README.md",
   "SECURITY.md":"metrika/frontend/watch-gtm-template/SECURITY.md",
   "img/demo.png":"metrika/frontend/watch-gtm-template/img/demo.png",
