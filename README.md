@@ -45,11 +45,3 @@ If you are Yandex employee please visit https://nda.ya.ru/t/20Cds6lt7ASopm for a
 8. Submit a Pull Request (PR).
 
 <img src="./img/tests.png" width="600" alt="Tests"></img>
-
-### Why can’t I see a subparameters?
-
-Click on "Show advanced settings" to reveal nested fields. Only the nested fields corresponding to the selected radio button will be included in the `data` variable during code execution.
-
-<img src="./img/advanced.png" width="600" alt="Advanced"></img>
-<img src="./img/subparams.png" width="600" alt="Subparams"></img>
-<img src="./img/subsubparams.png" width="600" alt="Subsubparams"></img>

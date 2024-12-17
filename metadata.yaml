@@ -15,3 +15,5 @@
 homepage: "https://metrica.yandex.com/"
 documentation: "https://yandex.com/support/metrica/"
 versions:
+  - sha: b21eb563c924d850791789cfc7faeb476e412343
+    changeNotes: Initial release.
