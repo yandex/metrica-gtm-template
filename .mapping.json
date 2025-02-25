@@ -1,4 +1,5 @@
 {
+  ".":"metrika/frontend/watch-gtm-template",
   "AUTHORS.md":"metrika/frontend/watch-gtm-template/AUTHORS.md",
   "CONTRIBUTING.md":"metrika/frontend/watch-gtm-template/CONTRIBUTING.md",
   "LICENSE":"metrika/frontend/watch-gtm-template/LICENSE",
